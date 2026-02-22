@@ -1,0 +1,5 @@
+{
+  "name": "Music Track Deterministic Rebuilder (MVP)",
+  "description": "A local-first, deterministic music analysis and sound design recipe generator.",
+  "requestFramePermissions": []
+}
